@@ -1,0 +1,57 @@
+{
+	"code": 0,
+	"result": "ok",
+	"description": "success",
+	"data": {
+		"ad_list": [
+			{
+				"view_type": "cells_auto_fill",
+				"stat": "",
+				"body": {
+					"line_color": "",
+					"line_height": "",
+					"w": 720,
+					"h": 200,
+					"title_logo_url": "",
+					"items": [
+						{
+							"img_url": "http://i8.mifile.cn/b2c-mimall-media/9c1f3d565f10229dbd0b06c102789783.jpg?bg=CE4249",
+							"img_url_webp": "http://i8.mifile.cn/v1/a1/84a68f26-fcca-b4c2-189c-16e3a3c67124.webp?bg=CE4249",
+							"action": {
+								"type": "product",
+								"path": "6874",
+								"log_code": "31wapadsearch-precells_auto_fill001001#rid=9580a212f2f0ecc8cb105aadc069c6db\u0026t=ad\u0026page=adsearch-pre\u0026act=product\u0026pid=6874\u0026bid=3035040.1\u0026adp=63\u0026adm=5574"
+							},
+							"w": 720,
+							"h": 200,
+							"path_type": "image"
+						}
+					]
+				}
+			}
+		],
+		"keywords": [
+			{
+				"back_n": "##e4f5e2",
+				"border_n": "##97c28a",
+				"font_n": "##484848",
+				"word": "红米5 新品"
+			}, {
+				"back_n": "##f8f2ec",
+				"border_n": "##fac288",
+				"font_n": "##484848",
+				"word": "电视32英寸"
+			}, {
+				"back_n": "##f9eaea",
+				"border_n": "##fca0a7",
+				"font_n": "##484848",
+				"word": "净水器厨下"
+			}, {
+				"back_n": "##e8f6f6",
+				"border_n": "##8cdade",
+				"font_n": "##484848",
+				"word": "小米MIX 2"
+			}
+		]
+	}
+}

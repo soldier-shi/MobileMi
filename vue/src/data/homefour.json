@@ -1,0 +1,1373 @@
+{
+	"code": 0,
+	"data": {
+		"tabs": [
+			{
+				"name": "推荐",
+				"page_type": "home",
+				"page_id": 0,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "手机",
+				"page_type": "tab",
+				"page_id": 3558,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "智能",
+				"page_type": "tab",
+				"page_id": 1860,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电视",
+				"page_type": "tab",
+				"page_id": 3094,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电脑",
+				"page_type": "tab",
+				"page_id": 1865,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "全面屏",
+				"page_type": "tab",
+				"page_id": 3257,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "生活周边",
+				"page_type": "tab",
+				"page_id": 1861,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "盒子",
+				"page_type": "tab",
+				"page_id": 2567,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "艺术",
+				"page_type": "tab",
+				"page_id": 3547,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}
+		],
+		"data": {
+			"header": {},
+			"sections": [
+				{
+					"view_type": "gallery",
+					"body": {
+						"items": [
+							{
+								"w": 720,
+								"h": 360,
+								"material_id": 5611,
+								"ad_position_id": 1492,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/29b7b7bca548490eda821244dbebc038.jpg?bg=C1554A",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/686f7339-34f4-d252-524f-c1f68e902d2e.webp?bg=C1554A",
+								"img_url_color": "#C1554A",
+								"action": {
+									"type": "product",
+									"path": "10000071",
+									"log_code": "311865waptabgallery001001#rid=56167b560f97a3c7465acf0b6f196be1\u0026t=ad\u0026page=tab\u0026act=product\u0026pid=10000071\u0026page_id=1865\u0026bid=3098659.1\u0026adp=1492\u0026adm=5611"
+								},
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"w": 720,
+								"h": 360,
+								"material_id": 5601,
+								"ad_position_id": 1898,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/361a34c4ef72f36697588068c0aa6f47.jpg?bg=E06154",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3984d1e1-7406-b247-53cd-86750f3d31cc.webp?bg=E06154",
+								"img_url_color": "#E06154",
+								"action": {
+									"type": "product",
+									"path": "10000061",
+									"log_code": "311865waptabgallery002001#rid=deb922faade5f49724394abf63cfee10\u0026t=ad\u0026page=tab\u0026act=product\u0026pid=10000061\u0026page_id=1865\u0026bid=3098659.2\u0026adp=1898\u0026adm=5601"
+								},
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098660",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f2448eb127ec87cf3265f9f066c8236e.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/bcaf460a-1af8-a56f-ab36-2f62e495ab27.webp",
+								"img_url_color": "#F9F9F9",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001002#rid=aa6a5608839d3d051b2a789af9aa7ad1\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098660.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8521e71034b074d862d4da8542cb9550.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8521e71034b074d862d4da8542cb9550.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6203",
+									"log_code": "311865waptablist_one_type12001003#rid=28f26f8aa57782d9aef3c109e02b5b5a\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3130961.1\u0026pid=6203"
+								},
+								"product_id": "6203",
+								"product_name": "13.3\"笔记本Air i7 8GB 独显",
+								"product_brief": "轻薄全金属机身，指纹解锁，画面流畅",
+								"product_price": "5599.00",
+								"product_org_price": "5999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8aa775c9e9dff58a48117de8dca0aad8.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/167dc8c9-834f-9ca1-12a4-11a712585b0f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e0b707361145c4898b6e2e9cd6cc7f70.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c0de124b-305d-1149-50ef-a49c02877d7b.webp",
+								"img_url_color": "#8F8E96",
+								"action": {
+									"type": "product",
+									"path": "6783",
+									"log_code": "311865waptablist_two_type1001004#rid=fcabb4d55d69f919883a86138c318763\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3130962.1\u0026pid=6783"
+								},
+								"product_id": "6783",
+								"product_name": "15.6\"笔记本i5 8GB",
+								"product_brief": "更强悍的专业笔记本",
+								"product_price": "5399.00",
+								"product_org_price": "5599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/6c02d264c3f5a23494d19ab597b4cd61.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp",
+								"img_url_color": "#BFBEC4",
+								"action": {
+									"type": "product",
+									"path": "6782",
+									"log_code": "311865waptablist_two_type1002004#rid=10f44d38b4551a1358084ad0c262d2f4\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3130962.2\u0026pid=6782"
+								},
+								"product_id": "6782",
+								"product_name": "15.6\"笔记本i7 8GB",
+								"product_brief": "全新高性能独显",
+								"product_price": "6199.00",
+								"product_org_price": "6399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6020",
+									"log_code": "311865waptablist_two_type1001005#rid=a20088bd8bc749b5dd890bf32ef90148\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098662.1\u0026pid=6020"
+								},
+								"product_id": "6020",
+								"product_name": "13.3\"笔记本i5 独显",
+								"product_brief": "指纹解锁，全金属机身",
+								"product_price": "4999.00",
+								"product_org_price": "5199.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/1dccfd8a713ec3af86c107e26f3fc29d.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/7ced406e-f826-cd47-e4ff-f4b38209c32c.webp",
+								"img_url_color": "#BAC7D9",
+								"action": {
+									"type": "product",
+									"path": "7094",
+									"log_code": "311865waptablist_two_type1002005#rid=39fd8214728244d015a12766ae6b7722\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098662.2\u0026pid=7094"
+								},
+								"product_id": "7094",
+								"product_name": " 13.3\"笔记本 8GB",
+								"product_brief": "轻薄全金属，指纹解锁",
+								"product_price": "4799.00",
+								"product_org_price": "4999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3141669",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 281,
+						"items": [
+							{
+								"w": 720,
+								"h": 280,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/5b656b21842882796a571eb40944ab9c.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/8c278fbd-9ffd-18c0-4191-752978b44172.webp",
+								"img_url_color": "#EA6738",
+								"action": {
+									"type": "activity",
+									"path": "https://s1.mi.com/pages/1fd7b875d3473501d1b771ebe934ca59/index.html",
+									"log_code": "311865waptabcells_auto_fill001006#rid=1bc4b51db479e38749f4c9ca040520d0\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3141669.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098664",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d1be7e640b6dfb93fb7a4a69e0c43e8c.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/6c3dc625-27dd-da95-0459-b5d6adbd2432.webp",
+								"img_url_color": "#F4F4F4",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001008#rid=d4f05ba19698318b3644c75b65e1dac8\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098664.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8521e71034b074d862d4da8542cb9550.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8521e71034b074d862d4da8542cb9550.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6203",
+									"log_code": "311865waptablist_one_type12001009#rid=edc00a1ab3ab452aaeb94bd666044f0e\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098665.1\u0026pid=6203"
+								},
+								"product_id": "6203",
+								"product_name": "13.3\"笔记本Air i7 8GB 独显",
+								"product_brief": "轻薄全金属机身，指纹解锁，画面流畅",
+								"product_price": "5599.00",
+								"product_org_price": "5999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8aa775c9e9dff58a48117de8dca0aad8.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/167dc8c9-834f-9ca1-12a4-11a712585b0f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/6c02d264c3f5a23494d19ab597b4cd61.jpg?bg=BFBEC4",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp?bg=BFBEC4",
+								"img_url_color": "#BFBEC4",
+								"action": {
+									"type": "product",
+									"path": "6782",
+									"log_code": "311865waptablist_two_type1001010#rid=36433afdeb4dcac870259aab60033d59\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098666.1\u0026pid=6782"
+								},
+								"product_id": "6782",
+								"product_name": "15.6\"笔记本i7 8GB",
+								"product_brief": "全新高性能独显",
+								"product_price": "6199.00",
+								"product_org_price": "6399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e957363143e32e571e8c8c821efc27c5.jpg?bg=8F8E96",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/71a40922-389b-70fd-375c-2e409df60338.webp?bg=8F8E96",
+								"img_url_color": "#8F8E96",
+								"action": {
+									"type": "product",
+									"path": "6781",
+									"log_code": "311865waptablist_two_type1002010#rid=088b05cb6752e86d76fa0536d9a876e5\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098666.2\u0026pid=6781"
+								},
+								"product_id": "6781",
+								"product_name": "15.6\"笔记本i7 16GB",
+								"product_brief": "全新第八代处理器",
+								"product_price": "6999.00",
+								"product_org_price": "6999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098668",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2461ca66f1bd719cbf992acf0403f474.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/32d3e409-4817-1497-7121-fa1975e83f66.webp",
+								"img_url_color": "#F4F4F4",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001012#rid=2d13a23ed35dbd9d73319f8cf182347a\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098668.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6020",
+									"log_code": "311865waptablist_two_type1001013#rid=57ccb686455044059d495209c9ff0425\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098669.1\u0026pid=6020"
+								},
+								"product_id": "6020",
+								"product_name": "13.3\"笔记本i5 独显",
+								"product_brief": "指纹解锁，全金属机身",
+								"product_price": "4999.00",
+								"product_org_price": "5199.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e0b707361145c4898b6e2e9cd6cc7f70.jpg?bg=8F8E96",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c0de124b-305d-1149-50ef-a49c02877d7b.webp?bg=8F8E96",
+								"img_url_color": "#8F8E96",
+								"action": {
+									"type": "product",
+									"path": "6783",
+									"log_code": "311865waptablist_two_type1002013#rid=36e9c54006b028313ff92f0ab49293ff\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098669.2\u0026pid=6783"
+								},
+								"product_id": "6783",
+								"product_name": "15.6\"笔记本i5 8GB",
+								"product_brief": "更强悍的专业笔记本",
+								"product_price": "5399.00",
+								"product_org_price": "5599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/550262e7877f4d849cb57e453512e7b9.jpg?bg=CBB2B2",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/dafaf705-9b87-3043-5721-4419ac88b9e5.webp?bg=CBB2B2",
+								"img_url_color": "#CBB2B2",
+								"action": {
+									"type": "product",
+									"path": "6204",
+									"log_code": "311865waptablist_two_type1001014#rid=3a21bdaf00d1e7a591d8346d27ff4a07\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098670.1\u0026pid=6204"
+								},
+								"product_id": "6204",
+								"product_name": "13.3\"笔记本 4GB",
+								"product_brief": "轻薄便携，指纹解锁",
+								"product_price": "4599.00",
+								"product_org_price": "4599.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/1dccfd8a713ec3af86c107e26f3fc29d.jpg?bg=BAC7D9",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/7ced406e-f826-cd47-e4ff-f4b38209c32c.webp?bg=BAC7D9",
+								"img_url_color": "#BAC7D9",
+								"action": {
+									"type": "product",
+									"path": "7094",
+									"log_code": "311865waptablist_two_type1002014#rid=a89a0982a003668c3723fdf5cea54170\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098670.2\u0026pid=7094"
+								},
+								"product_id": "7094",
+								"product_name": " 13.3\"笔记本 8GB",
+								"product_brief": "轻薄全金属，指纹解锁",
+								"product_price": "4799.00",
+								"product_org_price": "4999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098672",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0dbc5b562ca9880be53e9b6701dd18cb.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/f6aff2c1-068c-e26c-e128-9ea7e0fdd912.webp",
+								"img_url_color": "#F2F2F2",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001016#rid=643793704e24708d6dd3afd2ee9cb71d\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098672.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "7565",
+									"log_code": "311865waptablist_two_type1001017#rid=7dac28a2c5628cf04d921fbd50e1f35b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098673.1\u0026pid=7565"
+								},
+								"product_id": "7565",
+								"product_name": "12.5\"笔记本Air 128GB",
+								"product_brief": "轻薄长续航，超窄边框",
+								"product_price": "3599.00",
+								"product_org_price": "3599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "7567",
+									"log_code": "311865waptablist_two_type1002017#rid=de4b82302f2893c424bfef415e13726f\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098673.2\u0026pid=7567"
+								},
+								"product_id": "7567",
+								"product_name": "12.5\"笔记本Air 256GB",
+								"product_brief": "轻薄长续航，金属机身",
+								"product_price": "3999.00",
+								"product_org_price": "3999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098675",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/af6c4df85a6895fb0dc02ff665d1d872.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/f6aef708-0b89-646d-ee5b-addb9270febd.webp",
+								"img_url_color": "#E7E7E7",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001019#rid=e49f287bf34b51c669460255c5fa44f1\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098675.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/77d7285d162ab341bb25ba29080ab57c.jpg?bg=B7B4BB",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/21647f78-b335-55c1-2a1d-83c273624436.webp?bg=B7B4BB",
+								"img_url_color": "#B7B4BB",
+								"action": {
+									"type": "product",
+									"path": "6781",
+									"log_code": "311865waptablist_one_type12001020#rid=3f8d539f5e6c133126462ac02563bfe8\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098676.1\u0026pid=6781"
+								},
+								"product_id": "6781",
+								"product_name": "15.6\"笔记本Pro i7 16GB",
+								"product_brief": "更强悍的专业笔记本，主流接口多达7个",
+								"product_price": "6999.00",
+								"product_org_price": "6999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/6c02d264c3f5a23494d19ab597b4cd61.jpg?bg=BFBEC4",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/82488d9e-b7ec-c845-e9d7-4e03f5c5e272.webp?bg=BFBEC4",
+								"img_url_color": "#BFBEC4",
+								"action": {
+									"type": "product",
+									"path": "6782",
+									"log_code": "311865waptablist_two_type1001021#rid=3d9d19417f5f179c923002e1d6a2f77e\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098677.1\u0026pid=6782"
+								},
+								"product_id": "6782",
+								"product_name": "15.6\"笔记本i7 8GB",
+								"product_brief": "全新高性能独显",
+								"product_price": "6199.00",
+								"product_org_price": "6399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e0b707361145c4898b6e2e9cd6cc7f70.jpg?bg=8F8E96",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c0de124b-305d-1149-50ef-a49c02877d7b.webp?bg=8F8E96",
+								"img_url_color": "#8F8E96",
+								"action": {
+									"type": "product",
+									"path": "6783",
+									"log_code": "311865waptablist_two_type1002021#rid=5d02932ce3fe4edb6467348f7d56abde\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098677.2\u0026pid=6783"
+								},
+								"product_id": "6783",
+								"product_name": "15.6\"笔记本i5 8GB",
+								"product_brief": "更强悍的专业笔记本",
+								"product_price": "5399.00",
+								"product_org_price": "5599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098679",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d17a5bbc1f4b6926e010e550d9abf306.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/2f577b3c-05be-113e-f270-a2a821f9dfba.webp",
+								"img_url_color": "#EAEAEA",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001023#rid=a143f5acb3e62b1e627fc01ac9526aa7\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098679.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/d5d9f9a97adcfdbe427a9a062446ff1a.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d5d9f9a97adcfdbe427a9a062446ff1a.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "7566",
+									"log_code": "311865waptablist_two_type1001024#rid=b271a4ba77b983b4b079a2f288be0259\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098680.1\u0026pid=7566"
+								},
+								"product_id": "7566",
+								"product_name": "12.5\"笔记本Air 128GB",
+								"product_brief": "长续航全金属，超窄边框",
+								"product_price": "3599.00",
+								"product_org_price": "3599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/19a01dfb52bd52d9a3654eab319b457e.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "7567",
+									"log_code": "311865waptablist_two_type1002024#rid=75cea0b6efd5889a67c50836acf64d35\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098680.2\u0026pid=7567"
+								},
+								"product_id": "7567",
+								"product_name": "12.5\"笔记本Air 256GB",
+								"product_brief": "轻薄长续航，金属机身",
+								"product_price": "3999.00",
+								"product_org_price": "3999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3098682",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/5e6a876bae0ce1729aa8ee902b0f20fb.png",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5e6a876bae0ce1729aa8ee902b0f20fb.png",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "311865waptabcells_auto_fill001026#rid=1d43183c8a25a640fbbddf4e23e45df7\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098682.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/987738aa11a633dea63ef862534bb25e.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/987738aa11a633dea63ef862534bb25e.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6838",
+									"log_code": "311865waptablist_one_type12001027#rid=ecfa427ecfee89852dd1bf8b3ac9d00b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3131538.1\u0026pid=6838"
+								},
+								"product_id": "6838",
+								"product_name": "USB3.0至千兆网口多功能转接器",
+								"product_brief": "以一敌四，高效办公好搭档",
+								"product_price": "129.00",
+								"product_org_price": "129.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/949acfbd2475cc9b76d63d259c5894a4.jpg?bg=C8DFE9",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/ba2adc38-e265-c131-9a62-b3c896c68113.webp?bg=C8DFE9",
+								"img_url_color": "#C8DFE9",
+								"action": {
+									"type": "product",
+									"path": "6815",
+									"log_code": "311865waptablist_two_type1001028#rid=b9ed90307ac9710a62b5819e0005283b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3131539.1\u0026pid=6815"
+								},
+								"product_id": "6815",
+								"product_name": "VGA网口多功能转接器",
+								"product_brief": "小巧便携，节省桌面空间",
+								"product_price": "199.00",
+								"product_org_price": "199.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/648060ed1a8ef00f5756679ef7ba6971.jpg?bg=9EB2EB",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3220f7f0-fa4b-8227-1aaa-db66d5bbab43.webp?bg=9EB2EB",
+								"img_url_color": "#9EB2EB",
+								"action": {
+									"type": "product",
+									"path": "5287",
+									"log_code": "311865waptablist_two_type1002028#rid=79b0c6de36b1348bec8ce80769321316\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3131539.2\u0026pid=5287"
+								},
+								"product_id": "5287",
+								"product_name": "USB-C 电源适配器",
+								"product_brief": "小米笔记本的终身伴侣",
+								"product_price": "99.00",
+								"product_org_price": "99.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/747bdc5fe4ae9976ac05e8af1eb4c52e.jpg?bg=BAC6A4",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/beb1f30e-7a73-2598-f750-2d7a987ef446.webp?bg=BAC6A4",
+								"img_url_color": "#BAC6A4",
+								"action": {
+									"type": "product",
+									"path": "5434",
+									"log_code": "311865waptablist_two_type1001029#rid=c4b286713741e0829b142c8ad8d91c6b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098684.1\u0026pid=5434"
+								},
+								"product_id": "5434",
+								"product_name": "小米无线鼠标",
+								"product_brief": "把舒服握在手里",
+								"product_price": "69.00",
+								"product_org_price": "69.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6451e09563f5fe44bfc912bc128fceeb.jpg?bg=DFDEDF",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/0774806c-54ca-92fc-38bf-f15864945ae6.webp?bg=DFDEDF",
+								"img_url_color": "#DFDEDF",
+								"action": {
+									"type": "product",
+									"path": "4679",
+									"log_code": "311865waptablist_two_type1002029#rid=527487fa32fe76b830c4f3c2b8f8f517\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098684.2\u0026pid=4679"
+								},
+								"product_id": "4679",
+								"product_name": "小米便携鼠标",
+								"product_brief": "轻薄便携，含电池仅重77.5g\r\n",
+								"product_price": "99.00",
+								"product_org_price": "99.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd4e70d66276839ed73d9a9b897d4859.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd4e70d66276839ed73d9a9b897d4859.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "5499",
+									"log_code": "311865waptablist_two_type1001030#rid=9e847c0b16b4c06a716cd96513f35f89\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098685.1\u0026pid=5499"
+								},
+								"product_id": "5499",
+								"product_name": "悦米机械键盘",
+								"product_brief": "轻松输入，手感出众",
+								"product_price": "289.00",
+								"product_org_price": "289.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/52a7fe9beb82468bd236df852345e015.jpg?bg=E6DDE1",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/e4eac17b-479c-3a27-310d-140f119534e2.webp?bg=E6DDE1",
+								"img_url_color": "#E6DDE1",
+								"action": {
+									"type": "product",
+									"path": "4681",
+									"log_code": "311865waptablist_two_type1002030#rid=f981c7ce1b76620647a853dd293893d0\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098685.2\u0026pid=4681"
+								},
+								"product_id": "4681",
+								"product_name": "12.5英寸 笔记本贴纸",
+								"product_brief": "色彩细腻，防水耐磨",
+								"product_price": "64.90",
+								"product_org_price": "64.90",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/07855602fac2eed999563c7e3d232d5c.jpg?bg=D3E2B9",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/909aafaa-cba9-e2ad-4ce2-ff9466724a37.webp?bg=D3E2B9",
+								"img_url_color": "#D3E2B9",
+								"action": {
+									"type": "product",
+									"path": "5770",
+									"log_code": "311865waptablist_two_type1001031#rid=abd982df05e53b340cb1710c3e0d3a3a\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098686.1\u0026pid=5770"
+								},
+								"product_id": "5770",
+								"product_name": "多功能转接器 ",
+								"product_brief": "高性能转接器",
+								"product_price": "149.00",
+								"product_org_price": "149.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c01573cec4d3363d7efd511cbf7cfbc1.jpg?bg=D6E7F1",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/0a3dd887-a1ff-a6f1-9943-105d873a6fef.webp?bg=D6E7F1",
+								"img_url_color": "#D6E7F1",
+								"action": {
+									"type": "product",
+									"path": "4117",
+									"log_code": "311865waptablist_two_type1002031#rid=41f5cbcdeec002fad1155859f3d3c95e\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098686.2\u0026pid=4117"
+								},
+								"product_id": "4117",
+								"product_name": "笔记本转接器",
+								"product_brief": "让笔记本更强大的转接器",
+								"product_price": "149.00",
+								"product_org_price": "149.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/52b35b31db87e09f0c7b0d8fefce91ad.jpg?bg=C4C1C0",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/2bb34be1-a0a5-7f1f-e563-574badfd4db6.webp?bg=C4C1C0",
+								"img_url_color": "#C4C1C0",
+								"action": {
+									"type": "product",
+									"path": "701",
+									"log_code": "311865waptablist_two_type1001032#rid=6d7b04d20e9ed188ea66cf6c08413234\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098687.1\u0026pid=701"
+								},
+								"product_id": "701",
+								"product_name": "小米随身WiFi",
+								"product_brief": "便捷的随身上网神器",
+								"product_price": "19.90",
+								"product_org_price": "19.90",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b723d4cb2878807e61ead56be6d07d89.jpg?bg=BABBC8",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/16867c76-4b13-9fe8-d2f3-f431b896fd6a.webp?bg=BABBC8",
+								"img_url_color": "#BABBC8",
+								"action": {
+									"type": "product",
+									"path": "4256",
+									"log_code": "311865waptablist_two_type1002032#rid=1e0c77f6b53e76c34be29b1d98b34759\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=1865\u0026bid=3098687.2\u0026pid=4256"
+								},
+								"product_id": "4256",
+								"product_name": "笔记本内胆包 13.3\"",
+								"product_brief": "至简纤薄 轻松随行无压力",
+								"product_price": "49.00",
+								"product_org_price": "49.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}
+			]
+		},
+		"default_type": "tab",
+		"default_id": 1865
+	},
+	"result": "ok"
+}

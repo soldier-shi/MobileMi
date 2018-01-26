@@ -1,0 +1,899 @@
+{
+	"code": 0,
+	"data": {
+		"tabs": [
+			{
+				"name": "推荐",
+				"page_type": "home",
+				"page_id": 0,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "手机",
+				"page_type": "tab",
+				"page_id": 3558,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "智能",
+				"page_type": "tab",
+				"page_id": 1860,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电视",
+				"page_type": "tab",
+				"page_id": 3094,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电脑",
+				"page_type": "tab",
+				"page_id": 1865,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "全面屏",
+				"page_type": "tab",
+				"page_id": 3257,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "生活周边",
+				"page_type": "tab",
+				"page_id": 1861,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "盒子",
+				"page_type": "tab",
+				"page_id": 2567,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "艺术",
+				"page_type": "tab",
+				"page_id": 3547,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}
+		],
+		"data": {
+			"header": {},
+			"sections": [
+				{
+					"view_type": "cells_auto_fill",
+					"block_id": "3118346",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 360,
+						"items": [
+							{
+								"w": 720,
+								"h": 360,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/24d51f23adcdc41632595de4ce2b9f76.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/24d51f23adcdc41632595de4ce2b9f76.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "313257waptabcells_auto_fill001001#rid=13698e4409522b9033b09f5a8121e77b\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118346.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3130981",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 198,
+						"items": [
+							{
+								"w": 720,
+								"h": 198,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/9b3d4021f9119b4127dc59e4cf91e8e2.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9b3d4021f9119b4127dc59e4cf91e8e2.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "313257waptabcells_auto_fill001004#rid=61587913e5b50e2fce2d6e8bb465125f\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3130981.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e30444f65a95eefbdbdbaea16084b827.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/6cc01ce9-246b-20a7-77c3-8a67f2c693f6.webp",
+								"img_url_color": "#AAD8CE",
+								"action": {
+									"type": "product",
+									"path": "10000080",
+									"log_code": "313257waptablist_one_type12001005#rid=88f2e42ba6d520fb7982cd99c8400205\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118348.1\u0026pid=10000080"
+								},
+								"btn_txt": "立即购买",
+								"show_price_qi": true,
+								"product_id": "10000080",
+								"product_name": "红米5 Plus 千元全面屏",
+								"product_brief": "5.99\"大屏，17天超长续航",
+								"product_price": "999.00",
+								"product_org_price": "999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#009eb7",
+						"line_height": "16"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/dae9ef0aaa2c4e66d762ef9187548f80.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/bd15d921-59e6-bc9f-1d71-64df78e395ee.webp",
+								"img_url_color": "#B1D4B1",
+								"action": {
+									"type": "product",
+									"path": "10000079",
+									"log_code": "313257waptablist_one_type12001008#rid=de5a55201a607b78191c5d419833876c\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118349.1\u0026pid=10000079"
+								},
+								"btn_txt": "立即购买",
+								"show_price_qi": true,
+								"product_id": "10000079",
+								"product_name": "红米5 千元全面屏",
+								"product_brief": "5.7\"大屏，前置柔光自拍",
+								"product_price": "799.00",
+								"product_org_price": "799.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118350",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 198,
+						"items": [
+							{
+								"w": 720,
+								"h": 198,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/34e5f389942b2cdbb1f050966043fbd8.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/34e5f389942b2cdbb1f050966043fbd8.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "313257waptabcells_auto_fill001009#rid=6789a9c4ec533a9a3723cd0fc56d925c\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118350.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118351",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/2928a0791a8a9e74bb50f29c9a20632d.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/d2524a04-c28d-7af1-9796-7ff6f79d428c.webp",
+								"img_url_color": "#586971",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100191",
+									"log_code": "313257waptabcells_auto_fill001011#rid=9ddb3a6252bfed3a455769f96a340402\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118351.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118352",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/259041d71b937fa9184c0d586c326861.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/90da2bb9-6cbc-a81f-dd54-814f247f3f02.webp",
+								"img_url_color": "#BBB4BC",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100189",
+									"log_code": "313257waptabcells_auto_fill001012#rid=8561badff6e311acd73612f6bd785834\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118352.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118353",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b9a8c8cc6a58fde3d899bd612f9a1a55.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/b8615ca7-0857-3cdd-2197-75a8b496b19b.webp",
+								"img_url_color": "#797976",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100202",
+									"log_code": "313257waptabcells_auto_fill001013#rid=91fe49223b004c4084ebfb5a4c087385\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118353.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118354",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/59b7c902aa14581bda20e36cb53103a5.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/0d23a2f9-c68b-f9aa-2d35-64711d457fb5.webp",
+								"img_url_color": "#AC6062",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100188",
+									"log_code": "313257waptabcells_auto_fill001014#rid=e0046399813bdeb92970c64abb386967\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118354.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118355",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/649ffaf9e5b208e3252551b4df6f4419.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/fb8d845e-e671-5c58-ba1a-89d66f0712a1.webp",
+								"img_url_color": "#A390C6",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100199",
+									"log_code": "313257waptabcells_auto_fill001015#rid=fafb2a52e1e8807112e6c1f097f764f5\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118355.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118356",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/afeb0bfa4d99b32135ba9a753b7f6f46.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/469518b8-afda-e06c-4c17-46c9079b98ff.webp",
+								"img_url_color": "#7CBBB0",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100187",
+									"log_code": "313257waptabcells_auto_fill001016#rid=d7909d6c852ac29eb755bfe49a36d4de\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118356.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118357",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/c5eda5a4f6ff9575c3357c0a35d94da8.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/ab83a61d-d4d1-8194-fafe-1fe69d0dc84b.webp",
+								"img_url_color": "#7C9FBF",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100186",
+									"log_code": "313257waptabcells_auto_fill001017#rid=849370e1c2d242c5ac7327ae05d23c1c\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118357.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118358",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 198,
+						"items": [
+							{
+								"w": 720,
+								"h": 198,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8e859def7ad2a36fe0feaa6f9aa065c3.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e859def7ad2a36fe0feaa6f9aa065c3.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "313257waptabcells_auto_fill001018#rid=fb502ceceb1ec731bbcd6a2db1644731\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118358.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/ab8f655f7a7951e87f355cfb20061829.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/a2f6ebfa-f95e-43c6-8964-e0dd7f4e2711.webp",
+								"img_url_color": "#B9AAA7",
+								"action": {
+									"type": "product",
+									"path": "10000070",
+									"log_code": "313257waptablist_one_type12001020#rid=be8448b20c8792f169878f81bfdb6f57\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118370.1\u0026pid=10000070"
+								},
+								"btn_txt": "立即购买",
+								"show_price_qi": true,
+								"product_id": "10000070",
+								"product_name": "小米MIX 2  全面屏2.0",
+								"product_brief": "5.99\"大屏，骁龙835旗舰处理器 ",
+								"product_price": "2999.00",
+								"product_org_price": "3299.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/c8b52506247533daf994566e96cea5ce.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/09a0d52e-7c23-fa4f-7299-65f0ba02b62f.webp",
+								"img_url_color": "#BBBEC3",
+								"action": {
+									"type": "product",
+									"path": "7154",
+									"log_code": "313257waptablist_one_type12001021#rid=569ce6b3a5bd2f169a1aca0205a41888\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118359.1\u0026pid=7154"
+								},
+								"btn_txt": "立即购买",
+								"product_id": "7154",
+								"product_name": "小米MIX 2 全陶瓷尊享版",
+								"product_brief": "全面屏2.0，Unibody 全陶瓷",
+								"product_price": "4399.00",
+								"product_org_price": "4699.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118361",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 198,
+						"items": [
+							{
+								"w": 720,
+								"h": 198,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e8b4a9c0a039d250b89b71c8d7cc2417.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8b4a9c0a039d250b89b71c8d7cc2417.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "313257waptabcells_auto_fill001022#rid=5c41cceb38bcf9cf5067c21e1a24ceab\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3257\u0026bid=3118361.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118362",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/3b0612505da093e85d1f60ff9d959ec7.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/7c1538a3-1898-a735-34e4-5b52b2030565.webp",
+								"img_url_color": "#BBAAA5",
+								"action": {
+									"type": "url",
+									"path": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/313ca5edb280.html?2\u0026needValidHost=false\u0026zb_news_id=1145",
+									"log_code": "313257waptabcells_auto_fill001024#rid=3afc6131bd55993b679d70a309b9542e\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118362.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118363",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/9c11491fd29329b71a7100b3582d21be.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/5fff1960-1d9b-77f2-2c0c-2b99c72a5d56.webp",
+								"img_url_color": "#C3C3C3",
+								"action": {
+									"type": "url",
+									"path": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/5f408594a685.html?2\u0026needValidHost=false\u0026zb_news_id=1149",
+									"log_code": "313257waptabcells_auto_fill001025#rid=df1e248c9e69402024f6f36320f55e1c\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118363.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118365",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/c1e4bd57874e6a07589e24955684db25.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/cabb1fe5-75c4-c34a-5e7c-367489382d6b.webp",
+								"img_url_color": "#C2A696",
+								"action": {
+									"type": "url",
+									"path": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/883c4c304a14.html?2\u0026needValidHost=false\u0026zb_news_id=1125",
+									"log_code": "313257waptabcells_auto_fill001027#rid=ce98947ea9ef9195aa514c1fec03e1a8\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118365.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118366",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/fcd7745d93905986c15cc157cef89ea0.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/7e940252-462e-86c7-d2fc-9bd919e7d1c0.webp",
+								"img_url_color": "#BDBEC3",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100102",
+									"log_code": "313257waptabcells_auto_fill001028#rid=ae2d7e7c6f6c0262c16db4f8550c1a17\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118366.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118367",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e98d67e7a72f35b45f24cf963b210da1.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/52afbef9-b5f5-eb18-4fad-23d946568334.webp",
+								"img_url_color": "#C6C4C3",
+								"action": {
+									"type": "url",
+									"path": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/1ba5c7b9b719.html?2\u0026needValidHost=false\u0026zb_news_id=1224",
+									"log_code": "313257waptabcells_auto_fill001029#rid=a376d922e0a083f7980379bc1afc4c33\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118367.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3118368",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8b70f7598b78f4feca26f06a35697aee.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/5f242048-128b-0134-b475-769d52d49d0e.webp",
+								"img_url_color": "#615F5E",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100155",
+									"log_code": "313257waptabcells_auto_fill001030#rid=534cdf61d03d697477046f39e91c81eb\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3118368.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3141679",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 496,
+						"items": [
+							{
+								"w": 720,
+								"h": 496,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/a7a6ea4dd2275ff577044617e885bc64.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a7a6ea4dd2275ff577044617e885bc64.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "url",
+									"path": "http://s1.mi.com/m/shopnews/?nid=100298",
+									"log_code": "313257waptabcells_auto_fill001031#rid=9c468509e947dcc8f583c686a06b5489\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3257\u0026bid=3141679.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}
+			]
+		},
+		"default_type": "tab",
+		"default_id": 3257
+	},
+	"result": "ok"
+}

@@ -1,0 +1,844 @@
+{
+	"code": 0,
+	"data": {
+		"tabs": [
+			{
+				"name": "推荐",
+				"page_type": "home",
+				"page_id": 0,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "手机",
+				"page_type": "tab",
+				"page_id": 3558,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "智能",
+				"page_type": "tab",
+				"page_id": 1860,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电视",
+				"page_type": "tab",
+				"page_id": 3094,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电脑",
+				"page_type": "tab",
+				"page_id": 1865,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "全面屏",
+				"page_type": "tab",
+				"page_id": 3257,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "生活周边",
+				"page_type": "tab",
+				"page_id": 1861,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "盒子",
+				"page_type": "tab",
+				"page_id": 2567,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "艺术",
+				"page_type": "tab",
+				"page_id": 3547,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}
+		],
+		"data": {
+			"header": {},
+			"sections": [
+				{
+					"view_type": "list_one_video2",
+					"block_id": "3142843",
+					"body": {
+						"bg_color": "#ffffff",
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/dfd4829ab6d01e9241eb7bcfaa3ed178.jpg?w=1280\u0026h=720\u0026bg=2D2631",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/49d3d335-7720-ba7f-03ce-6f20c4490075.webp?w=1280\u0026h=720\u0026bg=2D2631",
+								"img_url_color": "#2D2631",
+								"video_url": "//v.mifile.cn/b2c-mimall-media/0c7d0fe35fa42ef547c4cbcf8837bd79.mp4",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142844",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 644,
+						"items": [
+							{
+								"w": 720,
+								"h": 644,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/7ac09dbfefc439337f733a77b17ee2da.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/82d7eefb-ba17-594a-73c6-f8733857ca0c.webp",
+								"img_url_color": "#F9F5F4",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001002#rid=007b073e773546f7c6bdcf3b515dbbb7\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142844.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142845",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 714,
+						"items": [
+							{
+								"w": 720,
+								"h": 714,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b1a9db09b721b0c496f1be62c5c0142d.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/63570f40-4929-e043-7362-cc01bbc02f0b.webp",
+								"img_url_color": "#BABBBC",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001003#rid=741e22865f9ad88306ce6fc468fb41b9\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142845.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142846",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 665,
+						"items": [
+							{
+								"w": 720,
+								"h": 665,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/c40b8cd4748cbfbc4f59b023b35ecb91.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/b28c629e-9109-58bb-3214-4d436ca7bf29.webp",
+								"img_url_color": "#C5C4C4",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001004#rid=7a8f30502565730e8a09ae7f028c3535\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142846.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142847",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 742,
+						"items": [
+							{
+								"w": 720,
+								"h": 742,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e5adb4ad30ccf0402b3cd177a141e76c.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/d2be1551-101a-0002-fdb4-6396ebd5bcbc.webp",
+								"img_url_color": "#99969B",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001005#rid=5e8119fd6255541a5b270e3e5a748c35\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142847.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142848",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 1130,
+						"items": [
+							{
+								"w": 720,
+								"h": 1130,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/cdd234c88968b762d13e9734015a9343.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/48827b61-0368-d7e2-3202-f2307659201a.webp",
+								"img_url_color": "#89847C",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001006#rid=b224fbe23c8c5f5b6e11c203b08c573a\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142848.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142849",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 842,
+						"items": [
+							{
+								"w": 720,
+								"h": 842,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/d588ea6d39518819b828c91108e12e4c.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3c6886d3-ace7-5784-1d6a-efcff6bf0fad.webp",
+								"img_url_color": "#F3F3F3",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001007#rid=41f60bd0c4927d3b8380bd5910889c4f\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142849.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142850",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 257,
+						"items": [
+							{
+								"w": 720,
+								"h": 257,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/c163802061e34b3fadba21bfb36a6758.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/93a725de-a900-c305-0972-9052b1beb4e1.webp",
+								"img_url_color": "#E4E4E4",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001008#rid=343f714cc83d63d7cd286cef6ca3f664\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142850.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142851",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 452,
+						"items": [
+							{
+								"w": 360,
+								"h": 452,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/83cdf8f6a0edf6dead73401c5ad7edb6.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/83cdf8f6a0edf6dead73401c5ad7edb6.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "url",
+									"path": "http://v.mifile.cn/b2c-mimall-media/8f04b7734b370e4005e19e7ca6a561ec.mp4",
+									"log_code": "313547waptabcells_auto_fill001009#rid=c47e575dfb6e7de083f520fb8e0f277d\u0026t=normal\u0026page=tab\u0026act=webview\u0026page_id=3547\u0026bid=3142851.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"x": 360,
+								"w": 360,
+								"h": 452,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8c367ab770025a93d8bb185f24415958.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/0c4cb87a-f031-6101-db6f-69b387ceecf8.webp",
+								"img_url_color": "#D7D1AB",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill002009#rid=4cfe2c1c021fed16530757effb237dbb\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142851.2"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142852",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 453,
+						"items": [
+							{
+								"w": 360,
+								"h": 453,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/f6f699832128888a65f986c3452c39ea.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/872b1b62-ed80-94ff-87ce-7f73084d4bc1.webp",
+								"img_url_color": "#C8B1A8",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001010#rid=346d0298faaaf374b5c14105ef7c3b92\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142852.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"x": 360,
+								"w": 360,
+								"h": 453,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/2b09b1acf1daab316f8de61086723287.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/2383e9db-a143-e610-9ffb-23b4288ade72.webp",
+								"img_url_color": "#AAA2A7",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill002010#rid=8f241ef817bf695f118bb5b481ed2c2f\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142852.2"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142853",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 453,
+						"items": [
+							{
+								"w": 360,
+								"h": 453,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/de14fafe301b44dd6a46cab348c574f2.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/de11eee4-335d-e21b-ee8c-255f78f5e6c4.webp",
+								"img_url_color": "#B6B5B0",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001011#rid=45a76647ae67e9b1ed4abf3c1c934b2a\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142853.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"x": 360,
+								"w": 360,
+								"h": 453,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b978542c7502596cd642bc1f42055018.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/317dbc47-2147-8f7c-d415-76521b1e0c4f.webp",
+								"img_url_color": "#A9A5A4",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill002011#rid=7101edca0ca3d1a813f55aa4bb525148\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142853.2"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142854",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 522,
+						"items": [
+							{
+								"w": 360,
+								"h": 521,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/ff421eb0b020de8df7a4fb49952edb46.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/ea720055-8f96-5411-3b1f-be468e04cc6e.webp",
+								"img_url_color": "#C5C0C3",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001012#rid=bc514e162805739dfbf87b906152b78f\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142854.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"x": 360,
+								"w": 360,
+								"h": 521,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/1387544da9be9ed9c46ce7ae52cf2b7d.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/570bb98d-5336-0c47-030b-6d2086d906d8.webp",
+								"img_url_color": "#B8ADA8",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill002012#rid=409ca1a304e9a7a562d78507e2cfbf85\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142854.2"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142855",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 789,
+						"items": [
+							{
+								"w": 720,
+								"h": 789,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/a07ae923133e1805f5a8a97c135e89d2.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/39c6a055-c838-89f1-96f8-c5d021a0e461.webp",
+								"img_url_color": "#55565F",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001013#rid=437c299792ea032ac46095cfda2d5b48\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142855.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142856",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 358,
+						"items": [
+							{
+								"w": 720,
+								"h": 358,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b77fc7976d894c71da987d8d690d24c4.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/8ad0037d-ed94-9f23-0a23-68fec529f947.webp",
+								"img_url_color": "#F6F3F3",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001014#rid=d3962d7fa1eedcf179193e47ab227839\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142856.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142857",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 138,
+						"items": [
+							{
+								"w": 720,
+								"h": 138,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/f59a53e62030ac2c1cd15fdb17cfd1c2.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/8e710ee1-290e-81ce-b3f9-89b9fc54e9b8.webp",
+								"img_url_color": "#C8CBC2",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001015#rid=dccb7012def3c67796d746133c5a431b\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142857.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142858",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 511,
+						"items": [
+							{
+								"w": 360,
+								"h": 511,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b20380f6d7f4cb5710586d7f05f592d8.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b20380f6d7f4cb5710586d7f05f592d8.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "10000080",
+									"log_code": "313547waptabcells_auto_fill001016#rid=02d1cabc7f130050641d9b56cffe50b7\u0026t=normal\u0026page=tab\u0026act=product\u0026pid=10000080\u0026page_id=3547\u0026bid=3142858.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"x": 360,
+								"w": 360,
+								"h": 511,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/720f24a494f35e3462688fea2913ce1f.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/720f24a494f35e3462688fea2913ce1f.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "10000070",
+									"log_code": "313547waptabcells_auto_fill002016#rid=65be660929da300c3e172a827cd76ef3\u0026t=normal\u0026page=tab\u0026act=product\u0026pid=10000070\u0026page_id=3547\u0026bid=3142858.2"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142859",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 561,
+						"items": [
+							{
+								"w": 360,
+								"h": 561,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/fbf9f27ed44918c70d7843a65f27b076.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/1b3eaa1d-0ccd-5ce5-952a-301cb2cc86a7.webp",
+								"img_url_color": "#95BEC8",
+								"action": {
+									"type": "product",
+									"path": "6222",
+									"log_code": "313547waptabcells_auto_fill001017#rid=9dfda306a18ecf9811e1210808a2c512\u0026t=normal\u0026page=tab\u0026act=product\u0026pid=6222\u0026page_id=3547\u0026bid=3142859.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"x": 360,
+								"w": 360,
+								"h": 561,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/5b3f20658702c25521c75718d4bb39d8.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3b8235b7-8dce-f763-c737-c86d9fc48e2a.webp",
+								"img_url_color": "#999796",
+								"action": {
+									"type": "product",
+									"path": "6850",
+									"log_code": "313547waptabcells_auto_fill002017#rid=0e6cf840905295b3df04ffb47627493e\u0026t=normal\u0026page=tab\u0026act=product\u0026pid=6850\u0026page_id=3547\u0026bid=3142859.2"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3142860",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 485,
+						"items": [
+							{
+								"w": 720,
+								"h": 485,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/e21021d51e3bef227ed7e06e9867a7b3.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/4a9710cf-f298-602a-ecf8-d6fb467fc305.webp",
+								"img_url_color": "#E9E8E7",
+								"action": {
+									"type": "none",
+									"log_code": "313547waptabcells_auto_fill001018#rid=c9aafbc1b26a7c31d8dcb189ab5716a1\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3547\u0026bid=3142860.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}
+			]
+		},
+		"default_type": "tab",
+		"default_id": 3547
+	},
+	"result": "ok"
+}

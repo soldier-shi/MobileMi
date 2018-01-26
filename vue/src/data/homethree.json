@@ -1,0 +1,1567 @@
+{
+	"code": 0,
+	"data": {
+		"tabs": [
+			{
+				"name": "推荐",
+				"page_type": "home",
+				"page_id": 0,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "手机",
+				"page_type": "tab",
+				"page_id": 3558,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "智能",
+				"page_type": "tab",
+				"page_id": 1860,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电视",
+				"page_type": "tab",
+				"page_id": 3094,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "电脑",
+				"page_type": "tab",
+				"page_id": 1865,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "全面屏",
+				"page_type": "tab",
+				"page_id": 3257,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "生活周边",
+				"page_type": "tab",
+				"page_id": 1861,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "盒子",
+				"page_type": "tab",
+				"page_id": 2567,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}, {
+				"name": "艺术",
+				"page_type": "tab",
+				"page_id": 3547,
+				"is_default": false,
+				"word_selected_color": "#ed5b00",
+				"word_unselected_color": "#747474",
+				"bg_img": "",
+				"bg_img_webp": ""
+			}
+		],
+		"data": {
+			"header": {},
+			"sections": [
+				{
+					"view_type": "gallery",
+					"body": {
+						"items": [
+							{
+								"w": 720,
+								"h": 360,
+								"material_id": 5542,
+								"ad_position_id": 1622,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/2bf70582edb45d83d7120a22c87200c9.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2bf70582edb45d83d7120a22c87200c9.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6850",
+									"log_code": "313094waptabgallery001001#rid=bf35f3cf50dfca56bdac03a83740a4f7\u0026t=ad\u0026page=tab\u0026act=product\u0026pid=6850\u0026page_id=3094\u0026bid=3111771.1\u0026adp=1622\u0026adm=5542"
+								},
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"w": 720,
+								"h": 360,
+								"material_id": 5292,
+								"ad_position_id": 1625,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/9a526356b8aa113494e7e8b232eaca42.jpg?bg=698FAB",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/44c05ea1-5c4c-71bd-7bf8-ff1097bb0535.webp?bg=698FAB",
+								"img_url_color": "#698FAB",
+								"action": {
+									"type": "product",
+									"path": "6634",
+									"log_code": "313094waptabgallery002001#rid=4be5c7fb70249b45e3b4bb49af009521\u0026t=ad\u0026page=tab\u0026act=product\u0026pid=6634\u0026page_id=3094\u0026bid=3111771.2\u0026adp=1625\u0026adm=5292"
+								},
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109508",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5fc6ccbed0bac3a3a6bb55bd82145ba7.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/94f27f95-5aef-0d25-e9ca-b9c6777dd9c8.webp",
+								"img_url_color": "#F8F8F8",
+								"action": {
+									"log_code": "313094waptabcells_auto_fill001003#rid=eb405200bcca8b865f48501060743bd4\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109508.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8305a1af4993651733411eb25796eab4.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8305a1af4993651733411eb25796eab4.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6222",
+									"log_code": "313094waptablist_one_type12001004#rid=38d505be3da985739b0870a749e0ae1b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109509.1\u0026pid=6222"
+								},
+								"product_id": "6222",
+								"product_name": "小米电视4A 32英寸",
+								"product_brief": "64位四核处理器，人工智能系统",
+								"product_price": "999.00",
+								"product_org_price": "1199.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/2f860c3c8d284cfd66250147dff99b32.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/ff90f0af-29a3-dead-9fc1-4455ff3eb17b.webp",
+								"img_url_color": "#9BB0CB",
+								"action": {
+									"type": "product",
+									"path": "6634",
+									"log_code": "313094waptablist_two_type1001005#rid=e429d5d55cc8057fcabea6a6bfd6c1c9\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109511.1\u0026pid=6634"
+								},
+								"product_id": "6634",
+								"product_name": "小米电视4A 55英寸",
+								"product_brief": "4K HDR，64位处理器",
+								"product_price": "2799.00",
+								"product_org_price": "2999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/f000bd098359b1d9f3a07b242930e0ef.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3961de40-63f1-16cc-6ced-2c034f1f5e43.webp",
+								"img_url_color": "#B7AEA6",
+								"action": {
+									"type": "product",
+									"path": "6850",
+									"log_code": "313094waptablist_two_type1002005#rid=071b6378f1140f16a981d5a20d55ece6\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109511.2\u0026pid=6850"
+								},
+								"product_id": "6850",
+								"product_name": "小米电视4C 43英寸",
+								"product_brief": "超窄边，高清智能电视",
+								"product_price": "1799.00",
+								"product_org_price": "2099.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e5bc715824c1f62e199e20bfd271321.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/a251f082-15f0-8034-da00-ccfe929012cc.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/ad7e02ccfb6ab954bee987c8611a79a9.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/203d1299-970a-f100-3f76-65177ad152ab.webp",
+								"img_url_color": "#B1A1A7",
+								"action": {
+									"type": "product",
+									"path": "6632",
+									"log_code": "313094waptablist_two_type1001006#rid=06b3d06a33ad78d64320d35a16ec27e9\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109510.1\u0026pid=6632"
+								},
+								"product_id": "6632",
+								"product_name": "小米电视4A 43英寸",
+								"product_brief": "全高清 HDR，64位处理器",
+								"product_price": "1999.00",
+								"product_org_price": "1999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/5d3120344b83af74f9c7e1be724bf447.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c46f28b5-636e-ffcc-c0cb-2347bd2c4890.webp",
+								"img_url_color": "#9A7A8D",
+								"action": {
+									"type": "product",
+									"path": "6633",
+									"log_code": "313094waptablist_two_type1002006#rid=da7a7e4059a958603d13c2097630fdfd\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109510.2\u0026pid=6633"
+								},
+								"product_id": "6633",
+								"product_name": "小米电视4A 49英寸",
+								"product_brief": "全高清，HDR，64位处理器",
+								"product_price": "2199.00",
+								"product_org_price": "2399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3145776",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/c41dcbe1697293bc622269c1665a5e61.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c41dcbe1697293bc622269c1665a5e61.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "none",
+									"log_code": "313094waptabcells_auto_fill001008#rid=fe54fd7f74bc3395cafbf4f87d8d104e\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3145776.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/24689b70cf842a204e7c265e5145d0aa.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/5e67942e-f049-8e64-a712-7a02aaf39a33.webp",
+								"img_url_color": "#7E7574",
+								"action": {
+									"type": "product",
+									"path": "7575",
+									"log_code": "313094waptablist_one_type12001009#rid=5cade6ef8150e05bafb1f019fa8ad3a5\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3145777.1\u0026pid=7575"
+								},
+								"product_id": "7575",
+								"product_name": "小米电视4A 50英寸",
+								"product_brief": "4K HDR，人工智能语音，标配蓝牙语音遥控器",
+								"product_price": "2399.00",
+								"product_org_price": "2399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109513",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bdc581979aa4c9f520e006eb6b2005ae.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/69614984-b5ec-f9b6-eb1d-167173619bf4.webp",
+								"img_url_color": "#F2F2F2",
+								"action": {
+									"log_code": "313094waptabcells_auto_fill001011#rid=1de20b4b0fc1d124dc90dcbafb39c1fb\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109513.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/320ff4db8a1712f26f394170a6600eca.jpg?bg=B0AD9E",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/d342ccbf-e3d6-2dcc-47a3-18656f28a0cc.webp?bg=B0AD9E",
+								"img_url_color": "#B0AD9E",
+								"action": {
+									"type": "product",
+									"path": "6222",
+									"log_code": "313094waptablist_two_type1001012#rid=0dd7ac699682ec1e49a35b1110316686\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109514.1\u0026pid=6222"
+								},
+								"product_id": "6222",
+								"product_name": "小米电视4A 32英寸",
+								"product_brief": "64位处理器，高清智能电视",
+								"product_price": "999.00",
+								"product_org_price": "1199.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/ad7e02ccfb6ab954bee987c8611a79a9.jpg?bg=B1A1A7",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/203d1299-970a-f100-3f76-65177ad152ab.webp?bg=B1A1A7",
+								"img_url_color": "#B1A1A7",
+								"action": {
+									"type": "product",
+									"path": "6632",
+									"log_code": "313094waptablist_two_type1002012#rid=ac3a2c7729d705ab801ef8c0ac27eef5\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109514.2\u0026pid=6632"
+								},
+								"product_id": "6632",
+								"product_name": "小米电视4A 43英寸",
+								"product_brief": "全高清 HDR，64位处理器",
+								"product_price": "1999.00",
+								"product_org_price": "1999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/5d3120344b83af74f9c7e1be724bf447.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c46f28b5-636e-ffcc-c0cb-2347bd2c4890.webp",
+								"img_url_color": "#9A7A8D",
+								"action": {
+									"type": "product",
+									"path": "6633",
+									"log_code": "313094waptablist_two_type1001013#rid=84d149401d53421a75530feb9c55c7f9\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109515.1\u0026pid=6633"
+								},
+								"product_id": "6633",
+								"product_name": "小米电视4A 49英寸",
+								"product_brief": "全高清，HDR，64位处理器",
+								"product_price": "2199.00",
+								"product_org_price": "2399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/2f860c3c8d284cfd66250147dff99b32.jpg?bg=9BB0CB",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/ff90f0af-29a3-dead-9fc1-4455ff3eb17b.webp?bg=9BB0CB",
+								"img_url_color": "#9BB0CB",
+								"action": {
+									"type": "product",
+									"path": "6634",
+									"log_code": "313094waptablist_two_type1002013#rid=4e606fa9d97fc4077476558907484337\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109515.2\u0026pid=6634"
+								},
+								"product_id": "6634",
+								"product_name": "小米电视4A 55英寸",
+								"product_brief": "4K HDR，64位处理器",
+								"product_price": "2799.00",
+								"product_org_price": "2999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/46db8ec60f94bc366957c86264002e34.jpg?bg=808082",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/a9ab24e2-55e0-4a3e-d0cd-cb19591a74a3.webp?bg=808082",
+								"img_url_color": "#808082",
+								"action": {
+									"type": "product",
+									"path": "5353",
+									"log_code": "313094waptablist_two_type1001014#rid=d2e55f5835eb2023db25aa97801eb91b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109516.1\u0026pid=5353"
+								},
+								"btn_txt": "立即购买",
+								"product_id": "5353",
+								"product_name": "小米电视4A 65英寸",
+								"product_brief": "4K超清大屏",
+								"product_price": "4999.00",
+								"product_org_price": "4999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/56381e2c8f1696b3f1fddaf6c7444c04.jpg?bg=B0A7A4",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/d2c153ed-a9f1-f685-da18-e96f0156e98f.webp?bg=B0A7A4",
+								"img_url_color": "#B0A7A4",
+								"action": {
+									"type": "product",
+									"path": "5354",
+									"log_code": "313094waptablist_two_type1002014#rid=537b5a4f36cd4950daac2e32033fbcce\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109516.2\u0026pid=5354"
+								},
+								"btn_txt": "立即购买",
+								"product_id": "5354",
+								"product_name": "小米电视4A 65\" 语音版",
+								"product_brief": "人工语音智能，超清大屏",
+								"product_price": "5299.00",
+								"product_org_price": "5499.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109518",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/10c4d5cc7a8b8cfae2a9563a6ea62ec9.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/f563c6c8-74ae-7d4a-eddd-b9f717eb9608.webp",
+								"img_url_color": "#F7F7F7",
+								"action": {
+									"log_code": "313094waptabcells_auto_fill001016#rid=5979f5482bacf632346dd89bb08dc48b\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109518.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/572733f9efa0fb1299d0a6142f65bf55.jpg?bg=BFB4B5",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/57a93607-fee1-fabc-53b1-18129d39851a.webp?bg=BFB4B5",
+								"img_url_color": "#BFB4B5",
+								"action": {
+									"type": "product",
+									"path": "6628",
+									"log_code": "313094waptablist_two_type1001017#rid=f05e9f8155b2aadb9199499867edc60e\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109519.1\u0026pid=6628"
+								},
+								"product_id": "6628",
+								"product_name": "小米电视4C 55英寸",
+								"product_brief": "4K HDR 人工智能系统",
+								"product_price": "2899.00",
+								"product_org_price": "3099.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/f000bd098359b1d9f3a07b242930e0ef.jpg?bg=B7AEA6",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3961de40-63f1-16cc-6ced-2c034f1f5e43.webp?bg=B7AEA6",
+								"img_url_color": "#B7AEA6",
+								"action": {
+									"type": "product",
+									"path": "6850",
+									"log_code": "313094waptablist_two_type1002017#rid=4bcdf9aca9f435dbf12143544cff785a\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109519.2\u0026pid=6850"
+								},
+								"product_id": "6850",
+								"product_name": "小米电视4C 43英寸",
+								"product_brief": "超窄边，高清智能电视",
+								"product_price": "1799.00",
+								"product_org_price": "2099.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e5bc715824c1f62e199e20bfd271321.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/a251f082-15f0-8034-da00-ccfe929012cc.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109521",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a2ec948dab864777c0bb8f37e283c472.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/5ac8234b-7905-a747-72f6-73ab551ef54e.webp",
+								"img_url_color": "#F4F4F4",
+								"action": {
+									"log_code": "313094waptabcells_auto_fill001019#rid=9a89cdafd40de798592df75eed91c8bc\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109521.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/eff4f7a747d15ce9af8223248eb8d838.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/eff4f7a747d15ce9af8223248eb8d838.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "5712",
+									"log_code": "313094waptablist_two_type1001020#rid=fc5af0ec08b9085aa837914ecdeb57eb\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109522.1\u0026pid=5712"
+								},
+								"product_id": "5712",
+								"product_name": "小米电视4 49英寸",
+								"product_brief": "极超薄高端旗舰电视",
+								"product_price": "3399.00",
+								"product_org_price": "3599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/50cf0d18052e7771bf24711ee8ce58dd.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/50cf0d18052e7771bf24711ee8ce58dd.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "7095",
+									"log_code": "313094waptablist_two_type1002020#rid=ef7b523f1e3618db63e7e01bc4e1c05e\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109522.2\u0026pid=7095"
+								},
+								"product_id": "7095",
+								"product_name": "小米电视4 55英寸",
+								"product_brief": "无边框式沉浸设计",
+								"product_price": "3999.00",
+								"product_org_price": "4499.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/660d85e54b4d62c593cd3bc11c948f30.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/b5c39dca-4ea6-90fd-ed3b-c807409c050b.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/47cef673ea87f24f709526d5df566418.jpg?bg=7D5E5D",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/fc42f947-2c35-6a73-3805-63fd4c18e9cc.webp?bg=7D5E5D",
+								"img_url_color": "#7D5E5D",
+								"action": {
+									"type": "product",
+									"path": "5892",
+									"log_code": "313094waptablist_two_type1001021#rid=de604ed8ab3d5616f6b48d70439fc3d3\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109523.1\u0026pid=5892"
+								},
+								"product_id": "5892",
+								"product_name": "小米电视4 65英寸",
+								"product_brief": "杜比全景声影院电视",
+								"product_price": "8999.00",
+								"product_org_price": "9999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/54606b94b176eb04c69790c62c92a57f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/9c110ac2-5c37-86a4-cbfa-90884996e8a2.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8284e56d3613e73783fe472a2efb22ee.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8284e56d3613e73783fe472a2efb22ee.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "3381",
+									"log_code": "313094waptablist_two_type1002021#rid=9f2344e1f1643167db5166de2d1e53b7\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109523.2\u0026pid=3381"
+								},
+								"product_id": "3381",
+								"product_name": "小米电视3S 65\" 曲面",
+								"product_brief": "原装三星4K屏，超薄金属机身",
+								"product_price": "9299.00",
+								"product_org_price": "9299.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109525",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9b555197ff44870ff49a5db5b20ad844.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/8ef34777-ae25-c97b-b3a1-fd37a45a76a9.webp",
+								"img_url_color": "#EEEEEE",
+								"action": {
+									"type": "none",
+									"log_code": "313094waptabcells_auto_fill001023#rid=732fb9192ccae41d87c5796ec143c191\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109525.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8305a1af4993651733411eb25796eab4.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8305a1af4993651733411eb25796eab4.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "6222",
+									"log_code": "313094waptablist_one_type12001024#rid=0582becec5d926d6f6ddf10415954c8e\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109526.1\u0026pid=6222"
+								},
+								"product_id": "6222",
+								"product_name": "小米电视4A 32英寸",
+								"product_brief": "64位四核处理器，人工智能系统",
+								"product_price": "999.00",
+								"product_org_price": "1199.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/f000bd098359b1d9f3a07b242930e0ef.jpg?bg=B7AEA6",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/3961de40-63f1-16cc-6ced-2c034f1f5e43.webp?bg=B7AEA6",
+								"img_url_color": "#B7AEA6",
+								"action": {
+									"type": "product",
+									"path": "6850",
+									"log_code": "313094waptablist_two_type1001025#rid=bafebbb372720e20d8f47e8a16a3a0da\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109527.1\u0026pid=6850"
+								},
+								"product_id": "6850",
+								"product_name": "小米电视4C 43英寸",
+								"product_brief": "超窄边，高清智能电视",
+								"product_price": "1799.00",
+								"product_org_price": "2099.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4e5bc715824c1f62e199e20bfd271321.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/a251f082-15f0-8034-da00-ccfe929012cc.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/ad7e02ccfb6ab954bee987c8611a79a9.jpg?bg=B1A1A7",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/203d1299-970a-f100-3f76-65177ad152ab.webp?bg=B1A1A7",
+								"img_url_color": "#B1A1A7",
+								"action": {
+									"type": "product",
+									"path": "6632",
+									"log_code": "313094waptablist_two_type1002025#rid=9d66ee94f839090f7806498209782693\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109527.2\u0026pid=6632"
+								},
+								"product_id": "6632",
+								"product_name": "小米电视4A 43英寸",
+								"product_brief": "全高清 HDR，64位处理器",
+								"product_price": "1999.00",
+								"product_org_price": "1999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109529",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/954e957aa31e33653c59bdc25fbc3d24.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/9ced35d8-2885-954b-b518-71d1e3a0d143.webp",
+								"img_url_color": "#EEEEEE",
+								"action": {
+									"type": "none",
+									"log_code": "313094waptabcells_auto_fill001027#rid=1e7b34642329824fe682c0a482ecd6ac\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109529.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8e5f0cde857db23485eb75b11d33f883.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/70f12de3-b028-1c21-adf1-5612029d563e.webp",
+								"img_url_color": "#A8879A",
+								"action": {
+									"type": "product",
+									"path": "6633",
+									"log_code": "313094waptablist_one_type12001028#rid=3797928016c6a37817083334cb5ed60f\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3146750.1\u0026pid=6633"
+								},
+								"product_id": "6633",
+								"product_name": "小米电视4A 49英寸 标准版",
+								"product_brief": "全高清，HDR，64位处理器",
+								"product_price": "2199.00",
+								"product_org_price": "2399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/b8bfd35fef7676b79f3014bee9e510ef.jpg",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c2428d05-c3d0-31c6-830d-feaf22326813.webp",
+								"img_url_color": "#CEADA7",
+								"action": {
+									"type": "product",
+									"path": "7575",
+									"log_code": "313094waptablist_two_type1001029#rid=9116feb5d6ab13a90ebb4a76d0dd92e6\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109530.1\u0026pid=7575"
+								},
+								"product_id": "7575",
+								"product_name": "小米电视4A 50英寸",
+								"product_brief": "4K HDR，人工智能语音系统",
+								"product_price": "2399.00",
+								"product_org_price": "2399.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/eff4f7a747d15ce9af8223248eb8d838.jpg?bg=FFFFFF",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/eff4f7a747d15ce9af8223248eb8d838.jpg?bg=FFFFFF",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "5712",
+									"log_code": "313094waptablist_two_type1002029#rid=52ff1045cfdfee95bd2cb53819db77b2\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109530.2\u0026pid=5712"
+								},
+								"product_id": "5712",
+								"product_name": "小米电视4 49英寸",
+								"product_brief": "极超薄高端旗舰电视",
+								"product_price": "3399.00",
+								"product_org_price": "3599.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109532",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b0a013ca9fd6e0575f5fb73744c1639.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/7ad5ba91-14c7-e333-fa06-0d27f695c02a.webp",
+								"img_url_color": "#EDEDED",
+								"action": {
+									"type": "none",
+									"log_code": "313094waptabcells_auto_fill001031#rid=32205ff23995aeae4dce50263e629f1f\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109532.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/1df10e7da5a1c9dba00de8d77ab14f1c.jpg?bg=C2B5B5",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/21024763-8c2b-2a15-0048-f08588f16a9a.webp?bg=C2B5B5",
+								"img_url_color": "#C2B5B5",
+								"action": {
+									"type": "product",
+									"path": "6628",
+									"log_code": "313094waptablist_one_type12001032#rid=a48fe827c23a2a329d04e0cf2a7d7ce8\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109533.1\u0026pid=6628"
+								},
+								"product_id": "6628",
+								"product_name": "小米电视4C 55英寸",
+								"product_brief": "4K HDR 人工智能系统 超窄边 钢琴烤漆",
+								"product_price": "2899.00",
+								"product_org_price": "3099.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/50cf0d18052e7771bf24711ee8ce58dd.jpg",
+								"img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/50cf0d18052e7771bf24711ee8ce58dd.jpg",
+								"img_url_color": "#FFFFFF",
+								"action": {
+									"type": "product",
+									"path": "7095",
+									"log_code": "313094waptablist_two_type1001033#rid=f7d0945f2ee4efaa81156dbae16bcf49\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109534.1\u0026pid=7095"
+								},
+								"product_id": "7095",
+								"product_name": "小米电视4 55英寸",
+								"product_brief": "无边框式沉浸设计",
+								"product_price": "3999.00",
+								"product_org_price": "4499.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/660d85e54b4d62c593cd3bc11c948f30.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/b5c39dca-4ea6-90fd-ed3b-c807409c050b.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/2f860c3c8d284cfd66250147dff99b32.jpg?bg=9BB0CB",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/ff90f0af-29a3-dead-9fc1-4455ff3eb17b.webp?bg=9BB0CB",
+								"img_url_color": "#9BB0CB",
+								"action": {
+									"type": "product",
+									"path": "6634",
+									"log_code": "313094waptablist_two_type1002033#rid=b584eaf853553ff263893ecbde646964\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109534.2\u0026pid=6634"
+								},
+								"product_id": "6634",
+								"product_name": "小米电视4A 55英寸",
+								"product_brief": "4K HDR，64位处理器",
+								"product_price": "2799.00",
+								"product_org_price": "2999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109536",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ed16e8af5e4f701b5339884eb0be0e44.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/19e46efb-2d56-890e-f4ec-5106713745c8.webp",
+								"img_url_color": "#EDEDED",
+								"action": {
+									"type": "none",
+									"log_code": "313094waptabcells_auto_fill001035#rid=8c2f0f5689d7e11651d50a7705f651bc\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109536.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/8efc1453c152319de001bda60dcdec35.jpg?bg=858486",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/c196afb5-b984-f915-d2c1-2f465ae339df.webp?bg=858486",
+								"img_url_color": "#858486",
+								"action": {
+									"type": "product",
+									"path": "5353",
+									"log_code": "313094waptablist_one_type12001036#rid=73db6cc084fa5772a6a7f071da60e5ce\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109537.1\u0026pid=5353"
+								},
+								"product_id": "5353",
+								"product_name": "小米电视4A 65英寸",
+								"product_brief": "4K超清大屏，64位处理器，2GB+8GB大存储",
+								"product_price": "4999.00",
+								"product_org_price": "4999.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/47cef673ea87f24f709526d5df566418.jpg?bg=7D5E5D",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/fc42f947-2c35-6a73-3805-63fd4c18e9cc.webp?bg=7D5E5D",
+								"img_url_color": "#7D5E5D",
+								"action": {
+									"type": "product",
+									"path": "5892",
+									"log_code": "313094waptablist_two_type1001037#rid=127998178f6be56804060b04c36de119\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109538.1\u0026pid=5892"
+								},
+								"product_id": "5892",
+								"product_name": "小米电视4 65英寸",
+								"product_brief": "杜比全景声影院电视",
+								"product_price": "8999.00",
+								"product_org_price": "9999.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/54606b94b176eb04c69790c62c92a57f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/9c110ac2-5c37-86a4-cbfa-90884996e8a2.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/56381e2c8f1696b3f1fddaf6c7444c04.jpg?bg=B0A7A4",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/d2c153ed-a9f1-f685-da18-e96f0156e98f.webp?bg=B0A7A4",
+								"img_url_color": "#B0A7A4",
+								"action": {
+									"type": "product",
+									"path": "5354",
+									"log_code": "313094waptablist_two_type1002037#rid=1998f6acb349adad3c402fbdbd0f7fc6\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109538.2\u0026pid=5354"
+								},
+								"product_id": "5354",
+								"product_name": "小米电视4A 65\" 语音版",
+								"product_brief": "人工智能语音，4K超清大屏",
+								"product_price": "5299.00",
+								"product_org_price": "5499.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cfe6c89c1d35360beece9b620310a30f.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/50a05029-990d-791d-06b7-65e60fd8c26f.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}, {
+					"view_type": "cells_auto_fill",
+					"block_id": "3109540",
+					"body": {
+						"bg_color": "#ffffff",
+						"w": 720,
+						"h": 80,
+						"items": [
+							{
+								"w": 720,
+								"h": 80,
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/95b2ce8715bae48ee44f94fd2c22f479.png",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/f654600e-69b1-8bab-2451-0c05124ca387.webp",
+								"img_url_color": "#F3F3F3",
+								"action": {
+									"log_code": "313094waptabcells_auto_fill001039#rid=5720d8e4d0f5a4cbdf34d40e6d5839b5\u0026t=normal\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109540.1"
+								},
+								"path_type": "image",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						],
+						"recommend_flag": "0"
+					}
+				}, {
+					"view_type": "list_one_type12",
+					"body": {
+						"items": [
+							{
+								"img_url": "//i8.mifile.cn/b2c-mimall-media/de1bfaf084b9367bfcfbbe2b1ea957eb.jpg?bg=ECD3BF",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/85622792-8558-e997-fa04-b37b7274b111.webp?bg=ECD3BF",
+								"img_url_color": "#ECD3BF",
+								"action": {
+									"type": "product",
+									"path": "5990",
+									"log_code": "313094waptablist_one_type12001040#rid=1b9c311e560aac3cfc5d5544efb3b37c\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109541.1\u0026pid=5990"
+								},
+								"product_id": "5990",
+								"product_name": "小米盒子3 增强版 ",
+								"product_brief": "高端 4K 网络机顶盒，标配智能遥控器",
+								"product_price": "399.00",
+								"product_org_price": "449.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/000417592ba5906fe0eff4f3c0f7c4f4.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/e688cc6b-fbe2-e528-7e09-a84a6bb88be6.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "list_two_type1",
+					"body": {
+						"items": [
+							{
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a2f456b06cbd7efc019f3655a7e926a9.jpg?bg=908F93",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/a78ed74e-533f-ef0e-207f-40c4448d9133.webp?bg=908F93",
+								"img_url_color": "#908F93",
+								"action": {
+									"type": "product",
+									"path": "4893",
+									"log_code": "313094waptablist_two_type1001041#rid=8a24e1129c2fcb908782990ca950733b\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109542.1\u0026pid=4893"
+								},
+								"product_id": "4893",
+								"product_name": "小米盒子3s",
+								"product_brief": "4K HDR 人工智能机顶盒",
+								"product_price": "299.00",
+								"product_org_price": "349.00",
+								"product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/000417592ba5906fe0eff4f3c0f7c4f4.png?w=180\u0026h=48",
+								"product_tag_webp": "//i8.mifile.cn/v1/a1/e688cc6b-fbe2-e528-7e09-a84a6bb88be6.webp?w=180\u0026h=48",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}, {
+								"img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/23dd2afead52243eae7bc9db2994d863.jpg?bg=BCA195",
+								"img_url_webp": "//i8.mifile.cn/v1/a1/656a5863-6af1-6302-4e36-a33bd49e45cb.webp?bg=BCA195",
+								"img_url_color": "#BCA195",
+								"action": {
+									"type": "product",
+									"path": "4892",
+									"log_code": "313094waptablist_two_type1002041#rid=c6bc663948977a812e8da6f4a908a735\u0026t=product\u0026page=tab\u0026act=other\u0026page_id=3094\u0026bid=3109542.2\u0026pid=4892"
+								},
+								"product_id": "4892",
+								"product_name": "小米盒子3c",
+								"product_brief": "4K 人工智能机顶盒",
+								"product_price": "249.00",
+								"product_org_price": "249.00",
+								"title_today": "",
+								"title_tomorrow": "",
+								"title_future": "",
+								"subtitle_will_begin": "",
+								"subtitle_begin": "",
+								"subtitle_end": "",
+								"desc_begin": "",
+								"desc_will_begin": "",
+								"start_title": "",
+								"not_start_title": "",
+								"secbuy_type": ""
+							}
+						]
+					}
+				}, {
+					"view_type": "divider_line",
+					"body": {
+						"line_color": "#f5f5f5",
+						"line_height": "24"
+					}
+				}
+			]
+		},
+		"default_type": "tab",
+		"default_id": 3094
+	},
+	"result": "ok"
+}
