@@ -8,4 +8,5 @@
 * $ cd server
 * $ npm install or yarn install
 ## 启动
+* node app
 * npm run dev
