@@ -1,6 +1,5 @@
 # MobileMi
 模仿移动端小米
-# 启动
 ## 下载VUE依赖
 * $ cd vue
 * $ npm install or yarn install
@@ -8,5 +7,9 @@
 * $ cd server
 * $ npm install or yarn install
 ## 启动
-* node app
-* npm run dev
+* server目录下 
+
+    **$ node app**
+* vue目录下 
+
+    **$ npm run dev**
